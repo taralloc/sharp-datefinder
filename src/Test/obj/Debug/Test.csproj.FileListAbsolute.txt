@@ -1,0 +1,9 @@
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\Test\bin\Debug\Test.exe.config
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\Test\bin\Debug\test.txt
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\Test\bin\Debug\Test.exe
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\Test\bin\Debug\Test.pdb
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\Test\bin\Debug\sharp-datefinder.dll
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\Test\bin\Debug\sharp-datefinder.pdb
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\Test\obj\Debug\Test.exe
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\Test\obj\Debug\Test.pdb
