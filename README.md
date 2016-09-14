@@ -14,3 +14,10 @@ foreach(DateFinderResult res in dates)
   Console.WriteLine("{0} | day was set {1} | year was set {2}", res.Date.ToShortDateString(), res.IsDaySet, res.IsYearSet);
 }
 ```
+
+Output
+`
+02/26/2014 | day was set True | year was set True
+10/01/2020 | day was set False | year was set True
+08/21/2016 | day was set True | year was set True
+`
