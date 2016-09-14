@@ -1,0 +1,5 @@
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\sharp-datefinder\bin\Debug\sharp-datefinder.dll
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\sharp-datefinder\bin\Debug\sharp-datefinder.pdb
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\sharp-datefinder\obj\Debug\sharp-datefinder.csprojResolveAssemblyReference.cache
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\sharp-datefinder\obj\Debug\sharp-datefinder.dll
+c:\users\francesco\documents\visual studio 2015\Projects\sharp-datefinder\sharp-datefinder\obj\Debug\sharp-datefinder.pdb
